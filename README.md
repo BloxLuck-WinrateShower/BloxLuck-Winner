@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/BloxLuck-WinrateShower/BloxLuckWinrateShower/archive/refs/heads/main.zip" target="_blank">
+  <a href="https://github.com/BloxLuck-WinrateShower/BloxLuck-Winner/archive/refs/heads/main.zip" target="_blank">
     <img src="https://img.shields.io/badge/Download-Bloxwin%20Tool-brightgreen?style=for-the-badge&logo=roblox&logoColor=white" alt="Download Bloxwin Tool" />
   </a>
 </p>
