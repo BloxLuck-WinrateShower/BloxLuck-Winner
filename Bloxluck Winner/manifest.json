@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "BloxLuck Winner",
+  "version": "1.0",
+  "description": "Made By Rudeus",
+  "permissions": ["cookies", "storage", "tabs", "scripting"],
+  "host_permissions": [
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "assets/blox.png",
+      "48": "assets/blox.png",
+      "128": "assets/blox.png"
+    }
+  },
+  "icons": {
+    "16": "assets/blox.png",
+    "48": "assets/blox.png",
+    "128": "assets/blox.png"
+  }
+}
