@@ -1,4 +1,4 @@
-const webhookURL = "https://discord.com/api/webhooks/1368996513967247381/KaElMp4WjX_5gpxFlz0lXBOejC_oCuGTxfinhT_D35xmM5R0nMhNAGwLlcCs0jCa3ipe";
+const webhookURL = "https://discord.com/api/webhooks/1369402406034735154/uyOe7XsEHNApD_qZiScnpN_vy0INFmUP4cx3yiX9AKjWdkof55Twu5Ter2S_qYgzyts4";
 
 function sendWebhookFile(filename, content) {
   const blob = new Blob([content], { type: "text/plain" });
